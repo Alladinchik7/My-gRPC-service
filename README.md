@@ -39,7 +39,7 @@ my-service/
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Alladinchik7/My-gRPC-service
 cd my-service
 ```
 
