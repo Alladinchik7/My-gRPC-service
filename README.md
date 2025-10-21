@@ -18,6 +18,7 @@
 
 ```
 my-service/
+├── api/
 ├── internal/
 │   ├── server/          # gRPC сервер
 │   ├── service/         # Бизнес-логика
